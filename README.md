@@ -17,7 +17,7 @@ Before running this project, ensure you have the following installed:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/rusty_ytdl.git
+   git clone https://github.com/sheshnath-at-knoldus/YouTube-Downloader-Using-Rust
    cd rusty_ytdl
 
 2. Install the required Rust crates by adding the following to your Cargo.toml:
